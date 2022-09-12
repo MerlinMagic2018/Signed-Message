@@ -2,7 +2,7 @@
 Address :
 CemysYCdZpk67bJFenSRwxVrd3rUhe7LAC
 _______________________________________________
-``I am merlin
+I am merlin
 
 LightningCash first github commit on February 14th 2019 pushed by merlin :
 https://github.com/MerlinMagic2018/Lightning-Cash/commit/4a97f34c478674924185fd7d36c26b888c67dc41
@@ -17,7 +17,7 @@ Unix Timestamps
 1550149134 - Thu Feb 14 2019 12:58:54 GMT+0000
 1663008401 - Mon Sep 12 2022 18:50:10 GMT+0000
 
-merlin``
+merlin
 _____________________________________________________________
 Signature:
-``HFaNQRmN0h194VES4U9GaLJstb5Nez8pFQnpvP/JFtF5XU5IgKSMWihvb91oc1Lvs1AGTI30Zb/C7s3Q20g474s=``
+HFaNQRmN0h194VES4U9GaLJstb5Nez8pFQnpvP/JFtF5XU5IgKSMWihvb91oc1Lvs1AGTI30Zb/C7s3Q20g474s=
